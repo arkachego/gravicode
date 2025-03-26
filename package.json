@@ -1,0 +1,19 @@
+{
+  "name": "gravicode",
+  "version": "1.0.0",
+  "author": "Arka Halder",
+  "license": "UNLICENSED",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test:q2": "npx tsc && mocha './dist/q2/**/*.test.js'"
+  },
+  "devDependencies": {
+    "@types/chai": "^5.2.1",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.13.13",
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0",
+    "typescript": "^5.8.2"
+  }
+}
