@@ -1,4 +1,4 @@
-# GraviCode: DSA Problem
+# GraviCODE: DSA Problem
 
 This repository is the answer asked for in **Questions #1 or #2** of the assignment for the role of **Lead MERN Developer** in **Gravity Engineering Services**. There are two DSA problems among which I have been asked to pick one to solve. I've chosen **Question #2** for my submission. The `src/q2/index.ts` file is the actual artifact which has been asked for.
 
@@ -27,3 +27,5 @@ npm install
 ```
 npm run test:q2
 ```
+
+> I usually use a test-driven development approach while solving DSA problems. Hence the final command is actually executing the test suites for the corresponding functions.
